@@ -1,0 +1,4 @@
+Nice introduction: https://ermongroup.github.io/cs228-notes/extras/vae/
+The original Kingma paper: https://arxiv.org/abs/1312.6114
+Another read: https://pillowlab.wordpress.com/2019/02/10/reductions-in-representation-learning-with-rate-distortion-theory/
+
