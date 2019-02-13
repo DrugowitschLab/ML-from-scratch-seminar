@@ -1,4 +1,4 @@
-# a pytroch MLP
+# a pytorch MLP
 
 import numpy as np
 import torch
