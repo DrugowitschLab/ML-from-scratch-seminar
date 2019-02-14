@@ -19,8 +19,8 @@ sizes = [784, 100, 10]
 W0 = torch.tensor( np.random.randn(sizes[0], sizes[1]) / ( sizes[0]**0.5), requires_grad=True, dtype= torch.float32 )
 W1 = torch.tensor( np.random.randn(sizes[1], sizes[2]) / ( sizes[1]**0.5), requires_grad=True, dtype= torch.float32 )
 
-b0 = torch.tensor(0., requires_grad=True)
-b1 = torch.tensor(0., requires_grad=True)
+b0 = torch.zeros(sizes[1], requires_grad=True)
+b1 = torch.zeros(sizes[2], requires_grad=True)
 
 # relu nonlinearity
 f = lambda x: torch.max( x, 0*x)
@@ -80,8 +80,8 @@ for epoch in range(30):
             # zero out the gradients
             W0.grad.zero_()
             W1.grad.zero_()
-            b0.zero_()
-            b1.zero_()
+            b0.grad.zero_()
+            b1.grad.zero_()
 
 
 

@@ -22,5 +22,7 @@
 
 ### Some hacks that seem to prevent instability of the gradients
 - remove bias terms on the encoder mean, and the encoder logvariance
+- decrease the learning rate
 - initialize readout weights for mean and logvar to be distributed uniformly rather than normal
+- alternatively, increase the normalization in the weight initialization to sizes[i] rather than sizes[i]^0.5
 

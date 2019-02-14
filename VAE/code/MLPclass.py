@@ -13,8 +13,8 @@ class MLP(object):
         self.W0 = torch.tensor( np.random.randn(sizes[0], sizes[1]) / ( sizes[0]**0.5), requires_grad=True, dtype= torch.float32 )
         self.W1 = torch.tensor( np.random.randn(sizes[1], sizes[2]) / ( sizes[1]**0.5), requires_grad=True, dtype= torch.float32 )
 
-        self.b0 = torch.tensor(0., requires_grad=True)
-        self.b1 = torch.tensor(0., requires_grad=True)
+        self.b0 = torch.zeros(sizes[1], requires_grad=True)
+        self.b1 = torch.zeros(sizes[2], requires_grad=True)
 
         # relu nonlinearity
         self.f = lambda x: torch.max( x, 0*x)
@@ -53,8 +53,8 @@ class MLP(object):
                 # zero out the gradients
                 self.W0.grad.zero_()
                 self.W1.grad.zero_()
-                self.b0.zero_()
-                self.b1.zero_()
+                self.b0.grad.zero_()
+                self.b1.grad.zero_()
 
 
 
