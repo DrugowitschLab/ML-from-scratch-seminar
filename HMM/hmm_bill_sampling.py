@@ -87,14 +87,17 @@ class HMM:
         grad_mu = np.sum(self.H * (x_obs - self.mu[:,None])/self.sig[:,None]**2, axis=1)
         # sig^2
         grad_var = np.sum(self.H * ( (x_obs - self.mu[:,None])**2/self.sig[:,None]**2 - 1)/2/self.sig[:,None]**2, axis=1)
+        # A
         grad_A = np.zeros(self.A.shape)
         for t in range(self.steps-1):
             i,j = self.H[:,t+1].argmax(), self.H[:,t].argmax()
             grad_A[i,j] += 1
+        grad_A /= grad_A.sum(0)
+        grad_A -= self.A
         # Apply updates
         self.mu = self.mu + eta * grad_mu
-        self.sig = np.sqrt(self.sig**2 + eta * grad_var)
-        self.A = (self.A + eta * grad_A) / (self.A + eta * grad_A).sum(0)
+        self.sig = np.sqrt(self.sig**2 + eta/10 * grad_var)
+        self.A = (self.A + 1000*eta * grad_A) / (self.A + 1000*eta * grad_A).sum(0)
 
     
 
@@ -108,7 +111,7 @@ sig = [0.45,0.55]
 
 # Generate HMM and data
 hmm = HMM(2,A,p,mu,sig)
-H,X = hmm.sample_data(200)
+H,X = hmm.sample_data(1000)
 
 # scamble the system
 hmm.H[:] = np.random.multinomial(1, [1/hmm.n]*hmm.n, hmm.steps).T
@@ -119,11 +122,11 @@ hmm.A = np.array([[0.8,0.1],
 
 
 # Learn
-R = 200
+R = 100
 for r in range(R):
     print(".", end="", flush=True)
-    hmm.resample_all(X, reps=10)            # sample-based E step
-    hmm.M_step(X, eta=0.0005)
+    hmm.resample_all(X, reps=5)            # sample-based E step
+    hmm.M_step(X, eta=0.0004)
 
 hmm._A = np.array(hmm._A)
 # plot learning progress
