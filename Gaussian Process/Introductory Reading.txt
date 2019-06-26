@@ -1,0 +1,23 @@
+If needed, good for a general introduction to the mathematics and concepts:
+https://distill.pub/2019/visual-exploration-gaussian-processes/
+
+The bible of Gaussian Process:
+http://www.gaussianprocess.org/gpml/chapters/
+Suggested reading is:
+(1) Chapter 2, beginning through and including section 2.3 (can stop before decision theory)
+(2) Chapter 5, sections 5.1, 5.2, 5.4 (5.3 is optional)
+But the entire book is excellent and still frequently cited!
+
+They created the GPML software, which is the gold standard if you're using MATLAB:
+http://www.gaussianprocess.org/gpml/code/matlab/doc/
+
+A great resource for learning about kernels is David Duvenaud's thesis and the kernel cookbook:
+https://raw.githubusercontent.com/duvenaud/phd-thesis/master/kernels.pdf
+(website with reduced content here: https://www.cs.toronto.edu/~duvenaud/cookbook/)
+
+This blog has example python code, as well as walkthroughs on some of the best modern software packages:
+https://blog.dominodatalab.com/fitting-gaussian-process-models-python/
+
+I have added some reference papers to the 'advanced methods' folder, mostly by the same people developing GPFlow (a 
+tensorflow implementation of gaussian processses which uses variational inference and scalable computation to work with
+non-conjugate likelihoods and large datasets, automatic differentiation, integrate with deep networks, & more...)
