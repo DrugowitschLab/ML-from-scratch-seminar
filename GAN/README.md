@@ -40,8 +40,13 @@ _[Shih-Yi]_
 
 _[Johannes]_
 - Show minimal GAN example videos
+- Reading the blog post and maybe Goodfellow paper
 
-Then: reading
+_[Shih-Yi]_
+- Introduction to Tensorflow (today and tomorrow)
+
+**Please install tensorflow on your laptop.**
+
 
 
 ## Session II
