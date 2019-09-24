@@ -31,6 +31,7 @@ _[Shih-Yi]_
   * Network architecture(s),
   * Idea of their interaction,
   * Goodfellow algorithm,
+  * GAN hacks
 - Casting GANs as an MLP-based form of _unsupervised training_ of a _generative model_ over p(image, label)
   * closed-form objective function,
   * They play a two-player min-max game,
@@ -45,7 +46,7 @@ _[Johannes]_
 _[Shih-Yi]_
 - Introduction to Tensorflow (today and tomorrow)
 
-**Please install tensorflow on your laptop.**
+**Please install tensorflow (version 1.13.1) on your laptop.**
 
 
 
