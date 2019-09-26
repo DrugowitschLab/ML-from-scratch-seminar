@@ -4,6 +4,7 @@
 
 - A really nice overview: https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f
 - Practical tips and tricks: https://github.com/soumith/ganhacks
+- Ian Goodfellow's GAN tutorial at NIPS 2016: https://www.youtube.com/watch?v=HGYYEUSm-0Q
 
 
 ## Session I structure (this is more for Shih-Yi and Johannes)
