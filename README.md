@@ -45,27 +45,27 @@ The chairs have the following responsibilities:
   - help others on theory and implementation questions,
   - have an at least somewhat working reference implementation (can be copy-and-paste from a web blog),
   - announce any non-standard software requirements beforehand, so people can install them at home,
-  - share datasets and auxiliary functions on our github repository: https://github.com/DrugowitschLab/ML-from-scratch-seminar,
+  - share data sets and auxiliary functions on our github repository: https://github.com/DrugowitschLab/ML-from-scratch-seminar,
   - identify instructive example tasks (= data sets + what to try out with them) for the coding session.
 
 The last point will require the most preparation time as these examples are at the heart of the seminar.
 Please, plan ahead and dedicate enough time to this point.
 
-For the code, auto-diff packages and other little helpers are okay: the session chairs decide on what is the right combination of ``from-scratch'' and ``black-box''. A seemingly unlimited source of examples and code snippets can be found in the [``ML-From-Scratch'' repository of Erik Linder-Norén](https://github.com/eriklindernoren/ML-From-Scratch). (Ironically, I found this repository when googling for 'ml from scratch' after writing this document.)
+For the code, auto-diff packages and other little helpers are okay: the session chairs decide on what is the right balance between "from-scratch" and "black-box". Btw, a seemingly unlimited source of examples and code snippets can be found in the [``ML-From-Scratch'' repository of Erik Linder-Norén](https://github.com/eriklindernoren/ML-From-Scratch). (Ironically, I found this repository when googling for 'ml from scratch' after writing this document.)
 
 When preparing the theory part on day one, in contrast, you can save time by relying heavily on existing web blogs, lecture slides, and other sources.
 The primary goal of day one is *not* a comprehensive understanding of the theory. This would be too ambitious for a 2 hour meeting.
 Rather we want to arrive at the specific equations which constitute the algorithm and need to be implemented.
-Clearly highlighting these equations will dramatically facilitate everyone's implementation on day two.
+Clearly highlighting these equations will facilitate everyone's implementation on day two.
 
 After the session, please share the material (notes, readings, reference implementations,...) in a new sub-directory on github.
-Our github repository has public read access, and grants full write permissions to every participant.
+Our github repository has public read access and grants full write permissions to every participant.
 To get write permissions, send your github username to Johannes (johannes _ bill AT hms DOT harvard DOT edu).
 
 ## Role of the organizer
 
 The organizer (Johannes) is also a participant, i.e., serves as a session chair from time to time.
-Apart from that, the organizer helps scheduling the sessions, offers advice to the session chairs when planning coding tasks, maintains the platform for document and code sharing, and takes care of ordering dinner.
+Apart from that, the organizer helps scheduling the sessions, offers advice to the session chairs on the theory and when planning coding tasks, maintains the platform for document and code sharing, and takes care of ordering dinner.
 
 
 ## List of past sessions
@@ -76,12 +76,12 @@ Apart from that, the organizer helps scheduling the sessions, offers advice to t
 | Feb 12-13 (Tue/Wed)        | 5-8 p.m. | Luke & Johannes      | Variational auto-encoders       |
 | Apr 23+25 (Tue/Thu)        | 5-8 p.m. | Chong & Alex         | Hidden Markov Models            |
 | Jun 26-27 (Wed/Thu)        | 5-8 p.m. | Selmaan              | Gaussian processes              |
-| Sep 25-26 (Wed/Thu)        | 5-8 p.m. | Shih-Yi & Johannes   | Generative Adversarial Nets     |
+| Sep 25-26 (Wed/Thu)        | 5-8 p.m. | Shih-Yi & Johannes   | Generative Adversarial Networks |
 | Nov 20-21 (Wed/Thu)        | 5-8 p.m. | Seul Ah & Win        | Intro to Reinforcement Learning |
 | Feb 12+19, 2020 (Wed/Wed)  | 5-8 p.m. | Anna K.              | Kalman & particle filters       |
 | Apr 29+30, 2020 (Wed/Thu)  | 4-7 p.m. | Emma & Jeff          | Deep Reinforcement Learning     |
 | COVID BREAK                | (⚈̥̥̥̥̥́⌢⚈̥̥̥̥̥̀)    |                      |                                 |
-| Return plaaned for December 2021 !! | (✺ᵔ‿ᵔ✺)  |                      |                                 |
+| Return planned for December 2021 !!   | (✺ᵔ‿ᵔ✺)  |           |                                 |
 |                            |          |                      |                                 |
 
 ## Some suggestions for future topics:
