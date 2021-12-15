@@ -81,7 +81,7 @@ Apart from that, the organizer helps scheduling the sessions, offers advice to t
 | Feb 12+19, 2020 (Wed/Wed)  | 5-8 p.m. | Anna K.              | Kalman & particle filters       |
 | Apr 29+30, 2020 (Wed/Thu)  | 4-7 p.m. | Emma & Jeff          | Deep Reinforcement Learning     |
 | COVID BREAK                | (⚈̥̥̥̥̥́⌢⚈̥̥̥̥̥̀)    |                      |                                 |
-| Return planned for December 2021 !!   | (✺ᵔ‿ᵔ✺)  |           |                                 |
+| Dec 15+16, 2021 (Wed/Thu) | 5-8 p.m. | Alex & Johannes      | Bayesian Neural Nets & BBVI     |
 |                            |          |                      |                                 |
 
 ## Some suggestions for future topics:
