@@ -17,4 +17,4 @@ may be helpful if you're having trouble with the basic concepts.
 
 Day 1: https://colab.research.google.com/drive/1SLgoxl3DfXQXe0Tlhs1w_3DnUXpN4vsS
 
-Day 2: https://colab.research.google.com/drive/1mpSDutsbras-BF9RDebUTQK4leBzEkrV?authuser=5#scrollTo=4ZeIZUUpb6xS
+Day 2: https://colab.research.google.com/drive/1mpSDutsbras-BF9RDebUTQK4leBzEkrV?usp=sharing
