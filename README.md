@@ -82,7 +82,7 @@ Apart from that, the organizer helps scheduling the sessions, offers advice to t
 | Apr 29+30, 2020 (Wed/Thu)  | 4-7 p.m. | Emma & Jeff          | Deep Reinforcement Learning     |
 | COVID BREAK                | (⚈̥̥̥̥̥́⌢⚈̥̥̥̥̥̀)    |                      |                                 |
 | Dec 15+16, 2021 (Wed/Thu)  | 5-8 p.m. | Alex & Johannes      | Bayesian Neural Nets & BBVI     |
-| Feb, 2022                  |          | John + ???           | T.B.A.                          |
+| Mar, 7+10, 2022 (Mon/Thu)  | 5-8 p.m. | John & Zach          | Actor Critic Methods for RL     |
 |                            |          |                      |                                 |
 
 ## Some suggestions for future topics:
@@ -93,5 +93,6 @@ Apart from that, the organizer helps scheduling the sessions, offers advice to t
 - Hierarchical Dirichlet Processes
 - Natural Gradient Descent
 - Graph Neural Networks
+- Meta-learning
 
 
