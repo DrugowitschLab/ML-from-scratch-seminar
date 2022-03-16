@@ -93,6 +93,7 @@ Apart from that, the organizer helps scheduling the sessions, offers advice to t
 - Hierarchical Dirichlet Processes
 - Natural Gradient Descent
 - Graph Neural Networks
-- Meta-learning
+- Meta-learning (A neat small paper: https://paperswithcode.com/method/maml )
+- Vector-symbolic architectures and their link to cognitive neuroscience (Some sources: https://arxiv.org/pdf/cs/0412059.pdf, https://arxiv.org/pdf/2001.11797.pdf, https://www.hd-computing.com/, https://bioengineeringcommunity.nature.com/posts/the-best-of-both-worlds-deep-learning-meets-vector-symbolic-ai )
 
 
