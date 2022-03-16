@@ -14,7 +14,7 @@ Usually, we will meet in GB 422 (10 person capacity) or WAB 236 (larger room).
 
 On day one, a brief (20-30min) introduction on the topic is given by the session chairs, using white boards or slides.
 At the end of the introduction, readings on the theory are shared  which are studied by the class together over dinner.
-(Post-Covid note: For the time being, dinner can only be eaten outside on the Quad.)
+(Post-Covid note: For the time being, dinner can only be eaten outside on the Quad. (Post-post-Covid note: we allowed to have dinner indoors, again!))
 The collective reading session is a ``service'', not an obligation: Feel free to study the theory at home.
 Readings could be provided as a PDF or simply as one or two URLs.
 Some presenters have decided to use the reading session as a training opportunity for giving a full lecture on the white board.
