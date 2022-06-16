@@ -10,11 +10,12 @@ We will focus on the absolute basics of diffusion generative modeling, and restr
 **Helpful blog posts**:
 
 https://yang-song.github.io/blog/2021/score/
+
 https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
 
 **Relevant papers**:
 
-[[2021 Song et al.]] [Score-Based Generative Modeling through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG12RRHS)
+[2021 Song et al.] [Score-Based Generative Modeling through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG12RRHS)
 
 
 **Links to notebooks**:
