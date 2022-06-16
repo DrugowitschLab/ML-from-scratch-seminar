@@ -17,6 +17,10 @@ https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
 
 [2021 Song et al.] [Score-Based Generative Modeling through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG12RRHS)
 
+[2019 Song and Ermon] [Generative Modeling by Estimating Gradients of the Data Distribution](https://proceedings.neurips.cc/paper/2019/hash/3001ef257407d5a371a96dcd947c7d93-Abstract.html)
+
+[2015 Sohl-Dickstein et al.] [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](http://proceedings.mlr.press/v37/sohl-dickstein15.html)
+
 
 **Links to notebooks**:
 
