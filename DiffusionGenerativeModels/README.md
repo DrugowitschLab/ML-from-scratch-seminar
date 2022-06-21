@@ -24,6 +24,6 @@ https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
 
 **Links to notebooks**:
 
-Day 1: 
+Day 1: https://colab.research.google.com/drive/1aSQTgoqmyqGpLI9q7IRDlXXeMdAG-E4X
 
 Day 2: 
