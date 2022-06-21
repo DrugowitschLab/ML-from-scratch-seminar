@@ -26,7 +26,7 @@ https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
 
 Day 1 
 
-- math stuff: https://colab.research.google.com/drive/1aSQTgoqmyqGpLI9q7IRDlXXeMdAG-E4X
+- math stuff (start with this one): https://colab.research.google.com/drive/1aSQTgoqmyqGpLI9q7IRDlXXeMdAG-E4X
 - coding exercises: https://colab.research.google.com/drive/1dol5AXz_oNkFZMrwpDyK6MYnOB4ayEQU
 - coding solutions: https://colab.research.google.com/drive/1e2LXHvvufA3thNvdmsEZdLAI5xkjaLVl
 
