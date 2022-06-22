@@ -31,3 +31,6 @@ Day 1
 - coding solutions: https://colab.research.google.com/drive/1e2LXHvvufA3thNvdmsEZdLAI5xkjaLVl
 
 Day 2: 
+
+- coding exercises: https://colab.research.google.com/drive/16ZNcxNo7DJh1yZfFa2ombVd_uZqFTcQe
+- coding solutions: https://colab.research.google.com/drive/1e2LXHvvufA3thNvdmsEZdLAI5xkjaLVl
