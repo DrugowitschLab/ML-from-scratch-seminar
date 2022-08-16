@@ -14,7 +14,7 @@ Usually, we will meet in GB 422 (10 person capacity) or WAB 236 (larger room).
 
 On day one, a brief (20-30min) introduction on the topic is given by the session chairs, using white boards or slides.
 At the end of the introduction, readings on the theory are shared  which are studied by the class together over dinner.
-(Post-Covid note: For the time being, dinner can only be eaten outside on the Quad. (Post-post-Covid note: we allowed to have dinner indoors, again!))
+(Post-Covid note: For the time being, dinner can only be eaten outside on the Quad. (Post-post-Covid note: we are allowed to have dinner indoors, again!))
 The collective reading session is a ``service'', not an obligation: Feel free to study the theory at home.
 Readings could be provided as a PDF or simply as one or two URLs.
 Some presenters have decided to use the reading session as a training opportunity for giving a full lecture on the white board.
@@ -82,7 +82,8 @@ Apart from that, the organizer helps scheduling the sessions, offers advice to t
 | Apr 29+30, 2020 (Wed/Thu)  | 4-7 p.m. | Emma & Jeff          | Deep Reinforcement Learning     |
 | COVID BREAK                | (⚈̥̥̥̥̥́⌢⚈̥̥̥̥̥̀)    |                      |                                 |
 | Dec 15+16, 2021 (Wed/Thu)  | 5-8 p.m. | Alex & Johannes      | Bayesian Neural Nets & BBVI     |
-| Mar, 7+10, 2022 (Mon/Thu)  | 5-8 p.m. | John & Zach          | Actor Critic Methods for RL     |
+| Mar  7+10, 2022 (Mon/Thu)  | 5-8 p.m. | John & Zach          | Actor Critic Methods for RL     |
+| Jun 21+22, 2022 (Tue/Wed)  | 5-8 p.m. | Binxu & John         | Diffusion Generative Models     |
 |                            |          |                      |                                 |
 
 ## Some suggestions for future topics:
