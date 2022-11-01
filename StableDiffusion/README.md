@@ -1,6 +1,13 @@
 # Stable Diffusion
 ### [Binxu Wang](https://scholar.harvard.edu/binxuw) and [John Vastola](https://twitter.com/johnjvastola)
 
+<p align="center">
+<img src="https://github.com/DrugowitschLab/ML-from-scratch-seminar/blob/master/StableDiffusion/images/astro.png?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/DrugowitschLab/ML-from-scratch-seminar/blob/master/StableDiffusion/images/ballerina_chasing_cat.png?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/DrugowitschLab/ML-from-scratch-seminar/blob/master/StableDiffusion/images/lovely_cat.png?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/DrugowitschLab/ML-from-scratch-seminar/blob/master/StableDiffusion/images/turtle3.png?raw=true" alt="drawing" width="200"/>
+</p>
+
 This session follows up on last time's discussion of [diffusion generative models](https://github.com/DrugowitschLab/ML-from-scratch-seminar/tree/master/DiffusionGenerativeModels). Models like [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement) and [DALL·E 2](https://openai.com/dall-e-2/) have recently achieved spectacular successes in tasks like generating images from text. But going from the basic ideas of diffusion generative modeling to something that works as well as Stable Diffusion requires incorporating a number of extra moving parts. Our goal in this session is to talk about those, and to try to build something similar to Stable Diffusion ourselves.
 
 These extra components include:
@@ -9,7 +16,7 @@ These extra components include:
 * an *attention* mechanism, which helps guide the image generation process and create more self-consistent results;
 * a mechanism for *compressing* images, so that diffusion happens in a more tractable latent space rather than pixel space.
 
-See the original paper by [Rombach et al.](https://ommer-lab.com/research/latent-diffusion-models/) (which led directly to Stable Diffusion) for more details.
+See the original paper by [Rombach et al.](https://ommer-lab.com/research/latent-diffusion-models/) (which directly led to Stable Diffusion) for more details.
 
 ## Links to notebooks
 
