@@ -20,11 +20,13 @@ See the original paper by [Rombach et al.](https://ommer-lab.com/research/latent
 
 ## Links to notebooks
 
-Day 1 
+### Day 1 
 
 - diffusion playground: 
 
-Day 2: 
+**Important**: You will need to make a [Hugging Face](https://huggingface.co/) account. Afterwards, you will need to click this link (https://huggingface.co/CompVis/stable-diffusion-v1-4) and accept the conditions to use Stable Diffusion. *If you do not do this, the notebook will not run past a certain point.*
+
+### Day 2: 
 
 - coding exercises: 
 - coding solutions: 
