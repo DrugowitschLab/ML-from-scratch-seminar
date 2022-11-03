@@ -22,14 +22,14 @@ See the original paper by [Rombach et al.](https://ommer-lab.com/research/latent
 
 ### Day 1 
 
-- diffusion playground: https://colab.research.google.com/drive/1TvOlX2_l4pCBOKjDI672JcMm4q68sKrA?authuser=2#scrollTo=7eZFQ0wSHRRe
+- diffusion playground: https://colab.research.google.com/drive/1TvOlX2_l4pCBOKjDI672JcMm4q68sKrA?usp=sharing
 
 **Important**: You will need to make a [Hugging Face](https://huggingface.co/) account. Afterwards, you will need to click this link (https://huggingface.co/CompVis/stable-diffusion-v1-4) and accept the conditions to use Stable Diffusion. *If you do not do this, the notebook will not run past a certain point.*
 
 ### Day 2: 
 
-- coding exercises: 
-- coding solutions: 
+- coding exercises: https://colab.research.google.com/drive/1Y5wr91g5jmpCDiX-RLfWL1eSBWoSuLqO?usp=sharing
+- coding solutions: https://colab.research.google.com/drive/13FZbAnV6EJzqzePZ7rLe71-Go0CyZEwk?usp=sharing
 
 
 ## Helpful links and blog posts
