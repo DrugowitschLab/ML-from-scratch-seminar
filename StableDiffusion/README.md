@@ -18,6 +18,8 @@ These extra components include:
 
 See the original paper by [Rombach et al.](https://ommer-lab.com/research/latent-diffusion-models/) (which directly led to Stable Diffusion) for more details.
 
+See our [slides](https://github.com/DrugowitschLab/ML-from-scratch-seminar/blob/master/StableDiffusion/stable_diffusion_slides.pdf) for a walkthrough of the most important ideas.
+
 ## Links to notebooks
 
 ### Day 1 
