@@ -7,13 +7,12 @@ The current organizer is [John Vastola](johnvastola.com).
 
 ## List of upcoming sessions (Spring 2024)
 
-*Note from John*: Still determining schedule! Some possible topics include: RNNs, GLMs, consistency models, and long-sequence modeling.
+*Note from John*: Still determining schedule!
 
 |     Dates                  |   Time   |     Chairs           |     Topic                       |
 |:---------------------------|:---------|:--------------------:|:--------------------------------|
-| Jan               | TBD | TBD    | TBD              |
-| Feb       | TBD | TBD   | TBD       |
-| Mar        | TBD| TBD        | TBD           |
+| Feb 13-14       | 5-8 p.m. | John & Kiah   | Generalized linear models       |
+| Mar        | 5-8 p.m. | John & Siyan    | Recurrent neural networks         |
 | Apr        | TBD | TBD              | TBD             |
 | May       | TBD | TBD   | TBD |
 
