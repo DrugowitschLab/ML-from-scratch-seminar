@@ -11,7 +11,7 @@ The current organizer is [John Vastola](https://johnvastola.com).
 
 |     Dates                  |   Time   |     Chairs           |     Topic                       |
 |:---------------------------|:---------|:--------------------:|:--------------------------------|
-| Feb 13-14       | 5-8 p.m. | John & Kiah   | Generalized linear models       |
+| Feb 13+15 (Tue/Thu)       | 5-8 p.m. | John & Kiah   | Generalized linear models       |
 | Mar        | 5-8 p.m. | John & Siyan    | Recurrent neural networks         |
 | Apr        | TBD | TBD              | TBD             |
 | May       | TBD | TBD   | TBD |
