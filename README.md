@@ -13,7 +13,7 @@ The current organizer is [John Vastola](https://johnvastola.com).
 
 |     Dates                  |   Time   |  Location |    Chairs           |     Topic                       |
 |:---------------------------|:---------:|:--------:|:-------------------:|:--------------------------------|
-| Feb 13+15 (Tue/Thu)       | 5-8 p.m. | WAB 236, HMS | John & Kiah   | [Generalized linear models](https://github.com/DrugowitschLab/ML-from-scratch-seminar/tree/master/GLMs)       |
+| Feb 20+22 (Tue/Thu)       | 5-8 p.m. | WAB 236, HMS | John & Kiah   | [Generalized linear models](https://github.com/DrugowitschLab/ML-from-scratch-seminar/tree/master/GLMs)       |
 | Mar        | 5-8 p.m. | TBD | John & Siyan |   Recurrent neural networks         |
 | Apr        | TBD | TBD    |  TBD        | TBD             |
 | May       | TBD | TBD | TBD  | TBD |
