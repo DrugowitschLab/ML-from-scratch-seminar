@@ -2,6 +2,8 @@
 This repository is part of the _Machine Learning from Scratch_ seminar in the Department of Neurobiology at Harvard Medical School.
 In this seminar, a group of interested graduate students and postdocs develop minimal Python implementations of popular ML models. The primary goal is to exemplify the learning dynamics, strengths and limitations of the algorithms while keeping the involved computations "tractable".
 
+Each topic is covered over two evenings. The first evening is theory-focused (how/why does this idea work?), while the second is a group coding session (can you hack together a basic implementation?). Food is provided.
+
 The seminar was originally started and lovingly maintained by [Johannes Bill](https://billscientific.github.io/). 
 The current organizer is [John Vastola](https://johnvastola.com). 
 
