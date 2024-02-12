@@ -3,7 +3,7 @@
 
 In neuroscience, statistical models are essential for making sense of the complex link between neural activity and things in the world (e.g., animal behavior). Among the most useful statistical models are linear ones, because (i) they are simple, and (ii) they are interpretable. [Generalized linear models](https://en.wikipedia.org/wiki/Generalized_linear_model) (GLMs), not to be confused with [general linear models](https://en.wikipedia.org/wiki/General_linear_model), are a slight complexification of the idea of linear models, and are widely applied in neuroscience. In this session, our goal is to cover the basic theory and a simple application to real neural data. 
 
-The coding exercise is based on a notebook originally by [Shih-Yi Tseng](https://github.com/sytseng). See [here](https://github.com/sytseng/GLM_Tensorflow_2) for an extremely helpful GLM repo she made that includes both high-quality code and GLM-related tutorials.
+See [here](https://github.com/sytseng/GLM_Tensorflow_2) for an extremely helpful GLM repo by [Shih-Yi Tseng](https://github.com/sytseng) that includes both high-quality code and GLM-related tutorials.
 
 
 **Helpful tutorials**:
