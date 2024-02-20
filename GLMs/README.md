@@ -20,15 +20,15 @@ Note: please use the Colab links if you don't want to worry about having your ow
 
 **Student exercise notebook**: [link](https://github.com/DrugowitschLab/ML-from-scratch-seminar/blob/master/GLMs/mlfs_GLM_student.ipynb)
 
-**Student exercise notebook (Colab)**: link
+**Student exercise notebook (Colab)**: [link](https://colab.research.google.com/drive/1vex-K9HGA-xKMSxN4tatH_B5jmoqnWYh)
 
-**Student exercise notebook, hard mode**: link    (note: this is for users who really want to do things 'from scratch')
+**Student exercise notebook, hard mode**: [link](https://github.com/DrugowitschLab/ML-from-scratch-seminar/blob/master/GLMs/mlfs_GLM_student_HARDMODE.ipynb)    (note: this is for users who really want to do things 'from scratch')
 
 ## Check your work!
 
 **Student notebook solutions:** [link](https://github.com/DrugowitschLab/ML-from-scratch-seminar/blob/master/GLMs/mlfs_GLM_student_solutions.ipynb)
 
-**Student notebook solutions (Colab):** link
+**Student notebook solutions (Colab):** [link](https://colab.research.google.com/drive/1SuzLXGuUjQDviSlsnCZrqYSOqhyegxF_)
 
 ----------
 
