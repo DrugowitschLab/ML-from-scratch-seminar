@@ -1,10 +1,40 @@
 # Generalized linear models
 ### [John Vastola](https://johnvastola.com) and [Kiah Hardcastle](https://www.kiahhardcastle.info/home)
 
+<p align="center">
+<img src="https://github.com/DrugowitschLab/ML-from-scratch-seminar/blob/master/GLMs/header_pic.png?raw=true" alt="Hardcastle et al. 2017 tuning curves" width="550"/>
+</p>
+
 In neuroscience, statistical models are essential for making sense of the complex link between neural activity and things in the world (e.g., animal behavior). Among the most useful statistical models are linear ones, because (i) they are simple, and (ii) they are interpretable. [Generalized linear models](https://en.wikipedia.org/wiki/Generalized_linear_model) (GLMs), not to be confused with [general linear models](https://en.wikipedia.org/wiki/General_linear_model), are a slight complexification of the idea of linear models, and are widely applied in neuroscience. In this session, our goal is to cover the basic theory and a simple application to real neural data. 
 
-See [here](https://github.com/sytseng/GLM_Tensorflow_2) for an extremely helpful GLM repo by [Shih-Yi Tseng](https://github.com/sytseng) that includes both high-quality code and GLM-related tutorials.
+-------------------
 
+## Learn the basics!
+
+**Lecture notes:** [link](https://github.com/DrugowitschLab/ML-from-scratch-seminar/blob/master/GLMs/glm-notes.pdf)
+
+**Slides:** link
+
+## Test your skills!
+Note: please use the Colab links if you don't want to worry about having your own Python environment properly configured. On the other hand, this exercise only uses standard packages (numpy, scipy, matplotlib, pickle, time).
+
+**Student exercise notebook**: [link](https://github.com/DrugowitschLab/ML-from-scratch-seminar/blob/master/GLMs/mlfs_GLM_student.ipynb)
+
+**Student exercise notebook (Colab)**: link
+
+**Student exercise notebook, hard mode**: link    (note: this is for users who really want to do things 'from scratch')
+
+## Check your work!
+
+**Student notebook solutions:** [link](https://github.com/DrugowitschLab/ML-from-scratch-seminar/blob/master/GLMs/mlfs_GLM_student_solutions.ipynb)
+
+**Student notebook solutions (Colab):** link
+
+----------
+
+## Additional resources
+
+See [here](https://github.com/sytseng/GLM_Tensorflow_2) for an extremely helpful GLM repo by [Shih-Yi Tseng](https://github.com/sytseng) that includes both high-quality code and GLM-related tutorials.
 
 **Helpful tutorials**:
 
