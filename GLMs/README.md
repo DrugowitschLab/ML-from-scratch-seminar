@@ -15,6 +15,8 @@ In neuroscience, statistical models are essential for making sense of the comple
 
 **Slides:** [link](https://github.com/DrugowitschLab/ML-from-scratch-seminar/blob/master/GLMs/mlfs_GLMs_presentation.pptx)
 
+**Slides (PDF):** [link](https://github.com/DrugowitschLab/ML-from-scratch-seminar/blob/master/GLMs/mlfs_GLMs_presentation_PDF.pdf)
+
 ## Test your skills!
 Note: please use the Colab links if you don't want to worry about having your own Python environment properly configured. On the other hand, this exercise only uses standard packages (numpy, scipy, matplotlib, pickle, time).
 
