@@ -7,18 +7,6 @@ Each topic is covered over two evenings. The first evening is theory-focused (ho
 The seminar was originally started and lovingly maintained by [Johannes Bill](https://billscientific.github.io/). 
 The current organizer is [John Vastola](https://johnvastola.com). 
 
-## List of upcoming sessions (Spring 2024)
-
-*Note from John*: Still determining schedule!
-
-|     Dates                  |   Time   |  Location |    Chairs           |     Topic                       |
-|:---------------------------|:---------:|:--------:|:-------------------:|:--------------------------------|
-| Feb 20+22 (Tue/Thu)       | 5-8 p.m. | WAB 236, HMS | John & Kiah   | [Generalized linear models](https://github.com/DrugowitschLab/ML-from-scratch-seminar/tree/master/GLMs)       |
-| Mar        | 5-8 p.m. | TBD | John & Siyan |   Recurrent neural networks         |
-| Apr        | TBD | TBD    |  TBD        | TBD             |
-| May       | TBD | TBD | TBD  | TBD |
-
-
 ## List of past sessions
 
 |     Dates                  |   Time   |     Chairs           |     Topic                       |
@@ -36,7 +24,8 @@ The current organizer is [John Vastola](https://johnvastola.com).
 | Mar  7+10, 2022 (Mon/Thu)  | 5-8 p.m. | John & Zach          | Actor Critic Methods for RL     |
 | Jun 21+22, 2022 (Tue/Wed)  | 5-8 p.m. | Binxu & John         | Diffusion Generative Models     |
 | Nov 1+2, 2022 (Tue/Wed)    | 5-8 p.m. | Binxu & John         | Stable Diffusion                |
-| Apr 18+19, 2023 (Tue/Wed)  | 6-8:30 p.m. | Binxu             | Transformers                    |
+| Apr 18+19, 2023 (Tue/Wed)  | 6-8:30 p.m. | Binxu          | Transformers                    |
+| Feb 20+22, 2024 (Tue/Thu)  | 5-8 p.m. | John & Kiah   | [Generalized linear models](https://github.com/DrugowitschLab/ML-from-scratch-seminar/tree/master/GLMs) |
 
 
 ## Format of the seminar
